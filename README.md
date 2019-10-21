@@ -1,7 +1,7 @@
 ## What's this all about?
 
 This repository is used to track real-life [issues](https://github.com/Chelyocarpus/Waldhofstr/issues) in a grocery store i work at.
-After i got transfered to another branch i've noticed that the state of the store doesn't meet my standards. Instead of forgetting or losing (on paper) the issues i've decided to track the issues electronically. Thanks to my prior experience with Github using a a Github repository to keep an overview of the problems was an easy choice. I add new issues per Android-app as soon as i notice them. You won't find much code here.
+After i got transfered to another branch i've noticed that the state of the store doesn't meet my standards. Instead of forgetting or losing (on paper) the issues i've decided to track the issues electronically. Thanks to my prior experience with Github using a repository to keep an overview of the problems was an easy choice. I add new issues per Android-app as soon as i notice them. You won't find much code here.
 
 ## Worum get es hier?
 
